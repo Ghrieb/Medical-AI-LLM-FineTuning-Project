@@ -54,23 +54,23 @@ A detailed report documenting the entire process, from deploying the model to ev
 **Fine-tuned Output:** The improved output after fine-tuning the model on the medical dataset.
 
 # Technical Details
-**1. Pre-trained Model:** The base model used was Meta Llama 2 7B, which was fine-tuned using the medical dataset to specialize in genomic research.
-**2. Fine-Tuningv: This was performed using AWS SageMaker with a GPU-based instance (ml.g5.2xlarge) to accelerate the training process.
-**3. Text Generation:** The model takes medical text as input and generates domain-specific outputs related to viral genomics and genomic characterization.
-**4. Comparison:** After fine-tuning, the model displayed significantly more relevant and accurate outputs in the medical domain, outperforming the pre-trained version in understanding and generating medical research content.
+- **1. Pre-trained Model:** The base model used was Meta Llama 2 7B, which was fine-tuned using the medical dataset to specialize in genomic research.
+- **2. Fine-Tuningv:** This was performed using AWS SageMaker with a GPU-based instance (ml.g5.2xlarge) to accelerate the training process.
+- **3. Text Generation:** The model takes medical text as input and generates domain-specific outputs related to viral genomics and genomic characterization.
+- **4. Comparison:** After fine-tuning, the model displayed significantly more relevant and accurate outputs in the medical domain, outperforming the pre-trained version in understanding and generating medical research content.
 
 # Next Steps
 Future work could involve expanding the model's capabilities to other medical fields and further optimizing the fine-tuning process for personalized medicine and disease prediction tasks.
 
 # Results and Key Findings
-- Pre-trained Model: The model was capable of generating generic biomedical text, but it lacked specificity in the medical domain.
-- Fine-tuned Model: After fine-tuning, the model became proficient in genomic research and viral genomics, demonstrating improved contextual relevance and accuracy in medical text generation.
+- **Pre-trained Model:** The model was capable of generating generic biomedical text, but it lacked specificity in the medical domain.
+- **Fine-tuned Model:** After fine-tuning, the model became proficient in genomic research and viral genomics, demonstrating improved contextual relevance and accuracy in medical text generation.
 
 # Impact on Healthcare:
 The fine-tuned model can potentially be used in various healthcare applications, such as:
-- Medical diagnostics: Generating insights for healthcare professionals.
-- Research Support: Assisting researchers in generating and reviewing domain-specific literature.
-- Genomic Analysis: Supporting the development of personalized treatments by analyzing genomic data.
+- **Medical diagnostics:** Generating insights for healthcare professionals.
+- **Research Support:** Assisting researchers in generating and reviewing domain-specific literature.
+- **Genomic Analysis:** Supporting the development of personalized treatments by analyzing genomic data.
 
 # About Me
 I am a dual major in Developmental Biology and Computer Science, passionate about bridging the gap between AI/ML and biomedical sciences. My career goals involve using cutting-edge technologies like Generative AI to solve real-world challenges in healthcare innovation and contribute to the United Nations Sustainable Development Goals (UN SDGs).
