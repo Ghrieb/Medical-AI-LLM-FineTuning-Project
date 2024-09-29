@@ -3,6 +3,8 @@ This project showcases the fine-tuning of a large language model (Meta Llama 2) 
 
 The aim of this project is to demonstrate the power of Generative AI and Machine Learning to solve real-world challenges in biomedical research and healthcare, highlighting how AI models can be fine-tuned to generate contextually accurate and domain-specific text, making it a valuable asset in fields such as medical diagnostics, personalized medicine, and healthcare innovation.
 
+[AWS+AI+and+ML+Scholarship+Skills+Guide+2024-7.pdf](https://github.com/user-attachments/files/17179372/AWS%2BAI%2Band%2BML%2BScholarship%2BSkills%2BGuide%2B2024-7.pdf)
+
 # Project Summary
 As a dual major student in Developmental Biology and Computer Science, this project uniquely bridges my knowledge in both fields. The goal was to transform a pre-trained LLM into a domain-specific medical model through fine-tuning, aligning the project with the medical field's need for AI-powered solutions in areas such as genomics, viral research, and personalized medicine.
 
