@@ -75,7 +75,7 @@ The fine-tuned model can potentially be used in various healthcare applications,
 - **Genomic Analysis:** Supporting the development of personalized treatments by analyzing genomic data.
 
 # About Me
-I am a dual major in Computer Science at University of the People (UoPeople) and Biology at University of Science an technoogy Houari Boumedienne (USTHB), passionate about bridging the gap between AI/ML and biomedical sciences. My career goals involve using cutting-edge technologies like Generative AI to solve real-world challenges in healthcare innovation and contribute to the United Nations Sustainable Development Goals (UN SDGs).
+I am a dual major in Computer Science at University of the People (UoPeople) and Biology at University of Science an Technology Houari-Boumedienne (USTHB), passionate about bridging the gap between AI/ML and biomedical sciences. My career goals involve using cutting-edge technologies like Generative AI to solve real-world challenges in healthcare innovation and contribute to the United Nations Sustainable Development Goals (UN SDGs).
 
 # Acknowledgments
 A huge thank you to Udacity and AWS for offering this course and providing the resources to build and deploy this project.
