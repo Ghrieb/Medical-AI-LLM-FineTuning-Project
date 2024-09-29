@@ -17,14 +17,14 @@ This course, offered by Udacity in partnership with AWS, is designed to provide 
 - Text Generation: Using AI to generate high-quality, domain-specific text content.
 
 # Project Objectives
-1. Deploy Meta Llama 2 on AWS SageMaker:
+## 1. Deploy Meta Llama 2 on AWS SageMaker:
 - Use Meta Llama 2 7B as the base model, which was pre-trained for text generation tasks.
 - Evaluate the pre-trained model to assess its general ability to understand medical content.
 
-2. Fine-Tune the Model for Medical Domain:
+## 2. Fine-Tune the Model for Medical Domain:
 - Fine-tune the pre-trained model using a medical dataset focused on genomic characterization and viral genomics.
 - Adapt the model to produce more contextually accurate and domain-specific responses related to genomic research and biomedical sciences.
 
-3. Evaluate the Fine-Tuned Model:
+## 3. Evaluate the Fine-Tuned Model:
 - Test the fine-tuned model to compare its performance with the pre-trained version, specifically on medical text generation tasks.
 - Analyze improvements in the model’s ability to understand and generate accurate medical terminology and research insights.
