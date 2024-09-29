@@ -57,8 +57,11 @@ A detailed report documenting the entire process, from deploying the model to ev
 
 # Technical Details
 **1. Pre-trained Model:** The base model used was Meta Llama 2 7B, which was fine-tuned using the medical dataset to specialize in genomic research.
+
 **2. Fine-Tuningv:** This was performed using AWS SageMaker with a GPU-based instance (ml.g5.2xlarge) to accelerate the training process.
+
 **3. Text Generation:** The model takes medical text as input and generates domain-specific outputs related to viral genomics and genomic characterization.
+
 **4. Comparison:** After fine-tuning, the model displayed significantly more relevant and accurate outputs in the medical domain, outperforming the pre-trained version in understanding and generating medical research content.
 
 # Next Steps
