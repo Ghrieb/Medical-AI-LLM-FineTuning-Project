@@ -3,7 +3,7 @@ This project showcases the fine-tuning of a large language model (Meta Llama 2) 
 
 The aim of this project is to demonstrate the power of Generative AI and Machine Learning to solve real-world challenges in biomedical research and healthcare, highlighting how AI models can be fine-tuned to generate contextually accurate and domain-specific text, making it a valuable asset in fields such as medical diagnostics, personalized medicine, and healthcare innovation.
 
-[AWS+AI+and+ML+Scholarship+Skills+Guide+2024-7.pdf](https://github.com/user-attachments/files/17179372/AWS%2BAI%2Band%2BML%2BScholarship%2BSkills%2BGuide%2B2024-7.pdf)
+[AWS AI and ML Scholarshi Skills Guide 2024.pdf](https://github.com/user-attachments/files/17179438/AWS.AI.and.ML.Scholarshi.Skills.Guide.2024.pdf)
 
 # Project Summary
 As a dual major student in Developmental Biology and Computer Science, this project uniquely bridges my knowledge in both fields. The goal was to transform a pre-trained LLM into a domain-specific medical model through fine-tuning, aligning the project with the medical field's need for AI-powered solutions in areas such as genomics, viral research, and personalized medicine.
@@ -19,15 +19,15 @@ This course, offered by Udacity in partnership with AWS, is designed to provide 
 - **Text Generation:** Using AI to generate high-quality, domain-specific text content.
 
 # Project Objectives
-## 1. Deploy Meta Llama 2 on AWS SageMaker:
+### 1. Deploy Meta Llama 2 on AWS SageMaker:
 - Use Meta Llama 2 7B as the base model, which was pre-trained for text generation tasks.
 - Evaluate the pre-trained model to assess its general ability to understand medical content.
 
-## 2. Fine-Tune the Model for Medical Domain:
+### 2. Fine-Tune the Model for Medical Domain:
 - Fine-tune the pre-trained model using a medical dataset focused on genomic characterization and viral genomics.
 - Adapt the model to produce more contextually accurate and domain-specific responses related to genomic research and biomedical sciences.
 
-## 3. Evaluate the Fine-Tuned Model:
+### 3. Evaluate the Fine-Tuned Model:
 - Test the fine-tuned model to compare its performance with the pre-trained version, specifically on medical text generation tasks.
 - Analyze improvements in the model’s ability to understand and generate accurate medical terminology and research insights.
 
@@ -75,7 +75,7 @@ The fine-tuned model can potentially be used in various healthcare applications,
 - **Genomic Analysis:** Supporting the development of personalized treatments by analyzing genomic data.
 
 # About Me
-I am a dual major in Developmental Biology and Computer Science, passionate about bridging the gap between AI/ML and biomedical sciences. My career goals involve using cutting-edge technologies like Generative AI to solve real-world challenges in healthcare innovation and contribute to the United Nations Sustainable Development Goals (UN SDGs).
+I am a dual major in Computer Science at University of the People (UoPeople) and Biology at University of Science an technoogy Houari Boumedienne (USTHB), passionate about bridging the gap between AI/ML and biomedical sciences. My career goals involve using cutting-edge technologies like Generative AI to solve real-world challenges in healthcare innovation and contribute to the United Nations Sustainable Development Goals (UN SDGs).
 
 # Acknowledgments
 A huge thank you to Udacity and AWS for offering this course and providing the resources to build and deploy this project.
