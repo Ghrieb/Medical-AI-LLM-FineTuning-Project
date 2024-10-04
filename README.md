@@ -1,5 +1,5 @@
 # Medical AI Large Language Model Fine Tuning Project
-This project showcases the fine-tuning of a large language model (Meta Llama 2) to become an expert in the medical domain, specifically focusing on genomic characterization and viral genomics. It was developed as part of the "Introducing Generative AI with AWS" course offered by Udacity and AWS.
+This project showcases the fine-tuning of a large language model (Meta Llama 2) to become an expert in the medical domain, specifically focusing on genomic characterization and viral genomics. It was developed as part of the "Introducing Generative AI with AWS" course offered by **Udacity** and **AWS**.
 
 The aim of this project is to demonstrate the power of Generative AI and Machine Learning to solve real-world challenges in biomedical research and healthcare, highlighting how AI models can be fine-tuned to generate contextually accurate and domain-specific text, making it a valuable asset in fields such as medical diagnostics, personalized medicine, and healthcare innovation.
 
